@@ -1,5 +1,9 @@
 ### Writeup / README
 
+<a href="https://youtu.be/Nck3ZNhzxek" target="_blank"><img src="https://youtu.be/Nck3ZNhzxek/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
 #### 1. Overview
 
 At the first glance, this project contains too much information and knowledge to be digested in a reasonable amount of time, especially for a ROS beginner like me. Honestly speaking, from how the kuka_arm 3D model is built and controlled, to how the information is transfered between the target and the arm, is unknown to me. However, thanks to Udacity, the project is well designed so that I can focus on the transforms of links only without considering other stuffs that are beyond my knowledge for now. The contents of this project are definitely worthy to explore more to gain deeper understandings in ROS from all aspects.
