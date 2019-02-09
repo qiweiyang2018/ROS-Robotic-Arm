@@ -1,7 +1,8 @@
 ### Writeup / README
+[start]: ./misc_images/xarco_units.png
 
 <a href="https://youtu.be/Nck3ZNhzxek" target="_blank"><img src="https://youtu.be/Nck3ZNhzxek/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt=[start] width="240" height="180" border="10" /></a>
 
 
 #### 1. Overview
