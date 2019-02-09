@@ -3,7 +3,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Nck3ZNhzxek
 " target="_blank"><img src="http://img.youtube.com/vi/Nck3ZNhzxek/0.jpg" 
-alt="Robot Arm" width="240" height="180" border="10" /></a>
+alt="Robot Arm" width="960" height="720" border="10" /></a>
 
 
 #### 1. Overview
